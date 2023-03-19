@@ -1,2 +1,2 @@
-# NutriFood-repo
+# Repo of my NutriFood Django project
  
